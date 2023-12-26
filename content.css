@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    font-size: 0;
+    max-width: 1440px;
+    min-width: 375px;
+}
+.columns {
+    display: block;
+}
+.first_column {
+    display: inline-block;
+}
+.second_column {
+    display: inline-block;
+    vertical-align: top;
+}
+.frame67 {
+    height: 720px;
+    width: 720px;
+    background-color: blue;
+    display: block;
+}
+.frame74 {
+    height: 360px;
+    width: 720px;
+    background-color: rgb(229, 100, 20);
+    display: block;
+}
+.first_group_frames {
+    display: inline-block;
+}
+.frame81 {
+    height: 360px;
+    width: 360px;
+    background-color: antiquewhite;
+    display: inline-block;
+}
+.frame75 {
+    height: 360px;
+    width: 360px;
+    background-color: aqua;
+    display: inline-block;
+}
+.frame72 {
+    height: 720px;
+    width: 720px;
+    background-color: aquamarine;
+    display: block;
+}
+.second_group_frames {
+    display: inline-block;
+}
+.frame76 {
+    height: 720px;
+    width: 360px;
+    background-color: rgb(14, 166, 166);
+    display: inline-block;
+}
+.third_group_frames {
+    display: block;
+}
+.frame77 {
+    height: 360px;
+    width: 360px;
+    background-color: bisque;
+    display: block;
+}
+.frame78 {
+    height: 360px;
+    width: 360px;
+    background-color: rgb(255, 251, 0);
+    display: block;
+}
+.big_fourth_group_frames {
+    display: block;
+}
+.fourth_group_frames {
+    display: inline-block;
+}
+.frame79 {
+    height: 360px;
+    width: 360px;
+    background-color: blueviolet;
+    display: block;
+}
+.frame68 {
+    height: 720px;
+    width: 360px;
+    background-color: burlywood;
+    display: block;
+}
+.fifth_group_frames{
+    display: inline-block;
+}
+.frame69 {
+    height: 720px;
+    width: 360px;
+    background-color: brown;
+    display: block;
+}
+.frame80 {
+    height: 360px;
+    width: 360px;
+    background-color: cadetblue;
+    display: block;
+}
+.frame71 {
+    height: 720px;
+    width: 720px;
+    display: block;
+    background-color: chartreuse;
+}
+.frame70 {
+    height: 360px;
+    width: 720px;
+    background-color: chocolate;
+    display: block;
+}
+.frame73 {
+    height: 720px;
+    width: 720px;
+    background-color: crimson;
+    display: block;
+}
+.footer {
+    display: block;
+    background-color: pink;
+    height: 100px;
+    width: 100%;
+}
